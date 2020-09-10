@@ -15,4 +15,6 @@
 #define TX 1
 #define S3 10
 
+#define LED_BUILTIN 2
+
 #endif
