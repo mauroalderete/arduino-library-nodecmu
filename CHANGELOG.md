@@ -1,4 +1,14 @@
-# 20200202
+# CHANGLOG
+
+## 20200910 - v1.0.1
+
+Se formatea el proyecto para que pueda ser rapidamente incorporado en las librerias de arduino.
+
+Se agrega documentación general.
+
+Se agrega referencia a LED_BUILTIN como D4 que se corresponde a GPIO2.
+
+## 20200202
 
 Creacion de librerias de entorno
 
