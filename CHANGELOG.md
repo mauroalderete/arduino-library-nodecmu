@@ -1,4 +1,12 @@
-# 20200202
+# CHANGLOG
+
+## 20200910
+
+Se formatea el proyecto para que pueda ser rapidamente incorporado en las librerias de arduino.
+
+Se agrega documentación general.
+
+## 20200202
 
 Creacion de librerias de entorno
 
